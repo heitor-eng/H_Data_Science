@@ -5,7 +5,7 @@ Meu portfólio de projetos de data science
 </p>
 
 # Heitor Hermanson
-<sub>*Manufacturing engineer and data analysis enthusiast Center</sub>
+<sub>Manufacturing engineer and data analysis enthusiast </sub>
 
 
 
