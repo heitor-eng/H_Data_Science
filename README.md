@@ -18,3 +18,4 @@ Meu portfólio de projetos de data science
 ## Projetos:
 
 * **Análise de Dados do Airbnb:** 
+* [Análise Exploratória Airbnb](https://colab.research.google.com/github/heitor-eng/H_data_science/blob/master/Primeiro_Proj_DS.ipynb)
