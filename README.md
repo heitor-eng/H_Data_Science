@@ -17,5 +17,5 @@ Meu portfólio de projetos de data science
 
 ## Projetos:
 
-* **[Análise Exploratória Airbnb](https://colab.research.google.com/github/heitor-eng/H_data_science/blob/master/Primeiro_Proj_DS.ipynb)**
-* **[Trabalhando com dados nulos ou ausentes](https://colab.research.google.com/drive/1C8RPVtmtbE9Pv497-WGpe12fo-Ca8N7w#scrollTo=h7bc7p4vCBmo)**
+* **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise%20dos%20Dados%20Airbnb.ipynb)**
+* **[Trabalhando com dados nulos ou ausentes](https://github.com/heitor-eng/H_data_science/blob/master/Estudo_de_dados_sobre_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
