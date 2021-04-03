@@ -1,5 +1,5 @@
 # H_data_science
-Meu portfólio de projetos de data science
+Meu portfólio de projetos de Data Science
 <p align="center">
   <img src="banner_Heitor.png" >
 </p>
