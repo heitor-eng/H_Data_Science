@@ -20,3 +20,4 @@ Meu portfólio de projetos de Data Science
 * **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise_dos_Dados_do_Airbnb_Cidade_Rio_de_Janeiro.ipynb)**
 * **[Trabalhando com dados nulos ou ausentes](https://github.com/heitor-eng/H_data_science/blob/master/Estudo_de_dados_sobre_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
 * **[Análise Exploratória sobre os casos de COVID-19 no Mundo e no Brasil](https://github.com/heitor-eng/H_Data_Science/blob/master/Brasil_Covid_19_Projeto.ipynb)**
+* **[Extração do Preço do Leite](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_da_cota%C3%A7%C3%A3o_do_Leite.ipynb)**
