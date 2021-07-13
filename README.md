@@ -30,7 +30,7 @@
 * **[Análise Exploratória sobre os casos de COVID-19 no Mundo e no Brasil](https://github.com/heitor-eng/H_Data_Science/blob/master/Brasil_Covid_19_Projeto.ipynb)**
 * **[Extração do Preço do Leite](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_da_cota%C3%A7%C3%A3o_do_Leite.ipynb)**
 
-[![heitor-eng GitHub stats](https://github-readme-stats.vercel.app/api?username=heitor-eng&show_icons=true&theme=radical)](https://github.com/heitor-eng/github-readme-stats)
+[![heitor-eng GitHub stats](https://github-readme-stats.vercel.app/api?username=heitor-eng&show_icons=true&theme=tokyonight)](https://github.com/heitor-eng/github-readme-stats)
 
 
 
