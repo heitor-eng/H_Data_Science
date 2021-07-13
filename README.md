@@ -29,7 +29,7 @@ Meu portfólio de projetos de Data Science
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/)
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)(https://heitorhermanson.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/)
 
 
 - Thanks for visiting.
