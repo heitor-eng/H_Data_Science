@@ -15,7 +15,7 @@
 
 ## About me
 
-[![Github Badge](img height ="20" src ="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng")](https://github.com/heitor-eng) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/)
+[![Github Badge](img height ="20" src =https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng)](https://github.com/heitor-eng) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/)
 
 ## 😃:rocket:💻Technology, languages and tools:
 <img height ="20" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img height ="20" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
