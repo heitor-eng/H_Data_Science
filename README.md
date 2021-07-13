@@ -2,13 +2,14 @@
 
 ## I'm Heitor Hermanson!
 
- <sub>Manufacturing engineer </sub>
+ :factory: <sub>Manufacturing engineer </sub>
+
 
 :computer:  Here you are going to find the projects which I made by myself to get better in the data science area and in data engineer.
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:gree_book: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: Continue to improve in the data science area and get a job
 
@@ -17,6 +18,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng)](https://github.com/heitor-eng) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/) 
 
+😃:rocket:💻
 
 ## Projects:
 
