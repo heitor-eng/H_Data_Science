@@ -4,9 +4,35 @@ Meu portfólio de projetos de Data Science
   <img src="banner_Heitor.png" >
 </p>
 
-# Heitor Hermanson
-<sub>Manufacturing engineer and data analysis enthusiast </sub>
+# Welcome!
 
+ 
+
+## I'm Heitor Hermanson!
+
+ <sub>Manufacturing engineer </sub>
+
+:computer:  Here you are going to find the projects which I made by myself to get better in the data science area and in data engineer.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: Continue to improve in the data science area and get a job
+
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng)](https://github.com/heitor-eng)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/)
+
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)(https://heitorhermanson.medium.com/)
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
 
 
 **Background in:** Python, Manufacturing engineering, Power BI and VBA
@@ -15,7 +41,7 @@ Meu portfólio de projetos de Data Science
 * [LinkedIn](https://www.linkedin.com/in/heitor-campos-02770734/)
 * [Medium](https://medium.com/@heitorhermanson)
 
-## Projetos:
+## Projects:
 
 * **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise_dos_Dados_do_Airbnb_Cidade_Rio_de_Janeiro.ipynb)**
 * **[Trabalhando com dados nulos ou ausentes](https://github.com/heitor-eng/H_data_science/blob/master/Estudo_de_dados_sobre_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
