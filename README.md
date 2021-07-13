@@ -8,17 +8,19 @@
 
 :house_with_garden: I’m from Brazil
 
-:green_book: I like to read about investments, personal improvement (soft skills), fiction and adventures. 
+📚: I like to read about investments, personal improvement (soft skills), fiction and adventures. 
 
-:outbox_tray: 2021 Goals: Continue to improve in the data science area and get a job
+✳️: 2021 Goals: Continue to improve in the data science area and get a job
 
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng)](https://github.com/heitor-eng) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitor-eng)](https://github.com/heitor-eng) [! [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://heitorhermanson.medium.com/)](https://heitorhermanson.medium.com/) [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-campos-02770734/)](https://www.linkedin.com/in/heitor-campos-02770734/)
 
 😃:rocket:💻 ## Technology and tools:
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img height ="20" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+
 
 ## Projects:
 
