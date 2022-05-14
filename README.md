@@ -11,7 +11,7 @@
 
 🏗️ Planning analyst at services of overhauls at steam turbines and major inspection of gas turbines.
 
-😏 To learn more about my work, please click **[here](https://github.com/heitor-eng/Heitor_Profile/blob/main/README.md)**
+😏 To know more about my work, please click **[here](https://github.com/heitor-eng/Heitor_Profile/blob/main/README.md)**
 
 
 ## About me
